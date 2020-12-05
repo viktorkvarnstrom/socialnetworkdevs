@@ -1,0 +1,7 @@
+{
+    // Add the connection to MongoDB in here
+    "mongoURI": "",
+    "jwtSecret": "",
+    "githubClientId": "",
+    "githubSecret": ""
+}
